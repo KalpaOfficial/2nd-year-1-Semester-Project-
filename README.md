@@ -28,3 +28,23 @@ The application follows the MVC architecture and was built using Java, Tomcat, M
      - Edit and update assigned shifts
      - Delete or reassign shifts
      - Employees can view their own shift schedule
+  3. Leave Management
+     - Employees can submit leave requests
+     - Admin can approve or reject leaves
+     - Track leave history
+  4. Salary Management
+     - Maintain salary details for each employee
+     - Update salary records as needed
+     - View monthly or individual salary information
+  5. Complaint Management
+     - Employees can submit complaints
+     - Admin can monitor and respond to complaints
+     - Status tracking for each complain
+  6. Dashboard
+     - Centralized admin dashboard to manage shifts, users, salary, leaves, and complaints
+
+
+# Screenshots/Image
+
+## Home Page
+![Screenshot_18-11-2025_142239_localhost](https://github.com/user-attachments/assets/1d436937-9d4e-4a82-afdd-5ca023a7e661)
