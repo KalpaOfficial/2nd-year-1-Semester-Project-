@@ -71,4 +71,14 @@ The application follows the MVC architecture and was built using Java, Tomcat, M
 
 1. Download the database:
 
+   https://github.com/KalpaOfficial/2nd-year-1-Semester-Project-/tree/1db1083aef1577fd9fae1ec2e4a49ef56308966c/SQL
+
+# Contributing
+
+Contributions are welcome! Feel free to fork the project, make changes, and submit a pull request.
    
+# License
+
+This project is licensed under the GNU General Public License.
+
+THanks
