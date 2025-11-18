@@ -1,2 +1,30 @@
-# 2nd-year-1-Semester-Project-
-CRUD-OOP Project Description: Online Staff System
+# Online Staff Management System
+
+# overview
+this is a full-stack complete web-based Staff Management System designed to simplify and automate daily administrative tasks. The system allows administrators to efficiently manage users, assign and track staff shifts, handle leave requests, process salary information, and monitor employee complaints—all through a centralized online platform.
+
+The application follows the MVC architecture and was built using Java, Tomcat, MySQL, and CSS, ensuring a structured, scalable, and maintainable system. This platform helps organizations streamline staff operations and improve overall productivity.
+
+# Technologies Used
+- Frontend:
+  - HTML – For structuring the web pages
+  - CSS – For styling and layout
+  - JavaScript – For basic interactivity
+  - JSP (Java Server Pages) – For dynamic content rendering in the UI
+
+- Backend:
+  - Java (Servlets) – Core backend logic and controllers
+  - Tomcat Server – Deployment and server-side execution
+  - MySQL – Database for storing users, shifts, leaves, salary, and complaints
+  - JDBC – Database connectivity
+  - MVC Architecture – For structured separation of Model, View, and Controller
+ 
+  # Features
+  1. User Registration and Login:
+     - Users can create an account with personal details such as name, email, phone number, and address.
+     - Secure authentication using sessions and hashing.
+  2. Shift Management
+     - Assign shifts to employees
+     - Edit and update assigned shifts
+     - Delete or reassign shifts
+     - Employees can view their own shift schedule
