@@ -47,4 +47,28 @@ The application follows the MVC architecture and was built using Java, Tomcat, M
 # Screenshots/Image
 
 ## Home Page
+
 ![Screenshot_18-11-2025_142239_localhost](https://github.com/user-attachments/assets/1d436937-9d4e-4a82-afdd-5ca023a7e661)
+
+
+
+
+
+## User Dashboard
+
+![Screenshot_18-11-2025_155745_localhost](https://github.com/user-attachments/assets/386618bf-a5e8-4200-b472-77d6d7ee70f5)
+
+
+
+
+## Admin Dashboard
+
+<img width="1910" height="928" alt="Screenshot 2025-11-18 142554" src="https://github.com/user-attachments/assets/d53d9269-a9f1-4857-ad67-c56eada371d2" />
+
+
+
+# Getting Started
+
+1. Download the database:
+
+   
